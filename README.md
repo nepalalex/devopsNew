@@ -1,2 +1,2 @@
 # devopsNew
-First step working in github
+First step learning git in github
